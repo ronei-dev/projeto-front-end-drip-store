@@ -2,7 +2,7 @@ import Logo from './logo';
 import SearchBar from './searchBar';
 import AuthLinks from './AuthLinks';
 import MainNav from './mainNav';
-import CartIcon from './cartIcon'; 
+import CartIcon from './CartIcon'; 
 
 const Header = () => {
   return (
