@@ -1,0 +1,1 @@
+Projeto front-end de loja desenvolvido com React, durante aulas da monitora Nazaré
