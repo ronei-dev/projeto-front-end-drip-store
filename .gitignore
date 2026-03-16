@@ -1,5 +1,5 @@
 eslint.config.js
-
+vercel.json
 # Logs
 logs
 *.log
